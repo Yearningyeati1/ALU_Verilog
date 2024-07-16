@@ -1,4 +1,7 @@
 # ALU_Verilog
+
+Date: 05 MAY 2024
+
 HDL description of an Arithmetic Logic Unit built using modular instances of Booth Multiplier, Carry Lookahead Adders, Restoring Divider, etc.
 The ALU performs the following operations:
 Operations(S):
